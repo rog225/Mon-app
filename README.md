@@ -1,1 +1,21 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mon Blog</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; color: #333; }
+    article { background: white; padding: 20px; border-radius: 8px; max-width: 700px; margin: auto; }
+    h1 { color: #d9534f; }
+    p { line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <article>
+    <h1>Bienvenue sur mon blog !</h1>
+    <p>Voici mon premier article. Tu peux écrire ici tout ce que tu veux partager.</p>
+  </article>
+</body>
+</html>
 # Mon-app
